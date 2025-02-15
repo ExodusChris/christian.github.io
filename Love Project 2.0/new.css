@@ -12,25 +12,6 @@ body {
   background-color: black;
 }
 
-.postcard {
-  width: 800px;
-  height: 500px;
-  background: rgba(255, 255, 255, 0.63);
-
-  margin: 0 auto;
-  border-radius: 2%;
-  display: flex;
-  justify-content: space-between;
-  padding: 3em;
-  box-shadow: 0.8em 0.8em 15px rgba(0, 0, 0, 0.555);
-  -ms-transform: rotate(2.5deg); /* IE 9 */
-  -webkit-transform: rotate(2.5deg); /* Chrome, Safari, Opera */
-  transform: rotate(2.5deg);
-  -moz-transition: all 0.5s ease;
-  -webkit-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  transition: all 0.5s ease;
-}
 
 
 
